@@ -175,7 +175,7 @@ body{
 .leftSideCategories{
     font-size: 18px;
     color: #7F8798;
-}
+}   
 
 .rightsideCategories{
     font-size: 18px;
@@ -204,7 +204,7 @@ li{
     border: 1px solid rgb(241, 231, 231);
     background-color: #F6F6FB;
     display: flex;
-    padding-bottom: 32px;
+    height: 235px;  
 }
 
 .categoriesofAnalytics{
@@ -229,7 +229,7 @@ li{
     border: 1px solid rgb(241, 231, 231);
     background-color: #F6F6FB;
     display: flex;
-    padding-bottom: 96px;
+    height: 235px;
 }
 
 .categoriesofFlows{
